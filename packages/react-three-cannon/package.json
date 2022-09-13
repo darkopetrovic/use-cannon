@@ -30,7 +30,7 @@
     "prettier-fix": "prettier --write ."
   },
   "dependencies": {
-    "@pmndrs/cannon-worker-api": "^2.1.0",
+    "@pmndrs/cannon-worker-api": "https://gitpkg.now.sh/darkopetrovic/use-cannon/packages/cannon-worker-api?dev",
     "cannon-es": "^0.20.0",
     "cannon-es-debugger": "^1.0.0"
   },
